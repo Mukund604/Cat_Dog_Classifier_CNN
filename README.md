@@ -71,16 +71,6 @@ To use this project, follow these steps:
     python CNN.ipynb
     ```
 
-5. Evaluate the model:
-    ```sh
-    python evaluate.py
-    ```
-
-6. Classify new images:
-    ```sh
-    python predict.py --image_path path_to_your_image.jpg
-    ```
-
 ## Results
 
 The model achieves an accuracy of approximately 84% on the validation set after training for 5 epochs. Example classification results and training history plots are provided in the `Sample-Prediction-Images` directory.
